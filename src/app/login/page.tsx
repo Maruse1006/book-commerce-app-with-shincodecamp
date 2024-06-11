@@ -34,7 +34,7 @@ function Login() {
           </h2>
         </div>
         <div className="mt-8 space-y-6">
-          {providers &&
+          {/* {providers &&
             Object.values(providers).map((provider) => {
               return (
                 <div key={provider.id} className="text-center">
@@ -53,7 +53,7 @@ function Login() {
                   </button>
                 </div>
               );
-          })}
+          })} */}
         </div>
       </div>
     </div>
